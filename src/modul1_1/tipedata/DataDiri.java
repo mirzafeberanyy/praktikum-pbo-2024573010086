@@ -13,10 +13,10 @@ public class DataDiri {
         String alamat = "Blang Mangat, Aceh";
         long nik = 1203045678901234L;
         long noHp = 6282316331635L;
-        String email = "mirzafeberani@example.com";
+        String email = "mirzafeberani@gmail.com";
 
         // Data akademik
-        String perguruantinggi = "Politeknik Negeri Lhoseumawe";
+        String perguruantinggi = "Politeknik Negeri Lhokseumawe";
         String jurusan = "Teknologi Informasi dan Komputer";
         int semester = 3;
         float ipk = 3.7f;
@@ -34,8 +34,7 @@ public class DataDiri {
         String[] hobi = {"Sepak Bola", "Belajar", "Membaca", "Ngopi"};
         String statusPernikahan = "Belum Menikah";
 
-        // Output
-        System.out.println("=== DATA DIRI SUPER LENGKAP ===");
+        System.out.println("=== DATA DIRI ===");
         System.out.println("Nama Lengkap     : " + namaLengkap);
         System.out.println("Jenis Kelamin    : " + jenisKelamin);
         System.out.println("Tempat, Tgl Lahir: " + tempatLahir + ", " + tanggalLahir);
