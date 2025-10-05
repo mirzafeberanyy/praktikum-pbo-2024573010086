@@ -1,4 +1,4 @@
-package modul1_1.tipedata;
+package modul_1.tipedata;
 
 import java.time.LocalDate;
 

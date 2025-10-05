@@ -1,4 +1,4 @@
-package modul1_2;
+package modul_2;
 
 public class NestedLoopDemo {
     public static void main(String[] args) {

@@ -53,7 +53,7 @@ Variabel adalah wadah untuk menyimpan data dengan tipe tertentu. Java memiliki d
 2. Ketik kode berikut:
 
 ```
-package modul1_2;
+package modul_2;
 
 public class VariableDemo {
 public static void main(String[] args) {
@@ -169,7 +169,7 @@ Untuk membaca input dari pengguna dalam Java, kita menggunakan class Scanner yan
 2. Ketik kode berikut:
 
 ```
-package modul1_2;
+package modul_2;
 
 import java.util.Scanner;
 
@@ -287,7 +287,7 @@ default:
 2. Ketik kode berikut:
 
 ```
-package modul1_2;
+package modul_2;
 
 import java.util.Scanner;
 
@@ -383,7 +383,7 @@ Program `GradeDemo` berhasil menunjukkan penerapan struktur kontrol if–else un
 2. Ketik kode berikut:
 
 ```
-package modul1_2;
+package modul_2;
 
 import java.util.Scanner;
 
@@ -491,7 +491,7 @@ Program `MenuDemo` berhasil menunjukkan penerapan `switch-case` untuk pembuatan 
 2. Ketik kode berikut untuk menentukan katergori usia:
 
 ```
-package modul1_2;
+package modul_2;
 
 import java.util.Scanner;
 
@@ -587,7 +587,7 @@ do {
 2. ketik kode berikut:
 
 ```
-package modul1_2;
+package modul_2;
 
 public class ForLoopDemo {
     public static void main(String[] args) {
@@ -662,7 +662,7 @@ Program `ForLoopDemo` berhasil menunjukkan empat variasi penggunaan perulangan `
 2. ketik kode berikut:
 
 ```
-package modul1_2;
+package modul_2;
 
 import java.util.Scanner;
 
@@ -774,7 +774,7 @@ Program `WhileLoopDemo` berhasil menunjukkan perbedaan konsep `while` dan `do-wh
 2. ketik kode berikut:
 
 ```
-package modul1_2;
+package modul_2;
 
 public class NestedLoopDemo {
     public static void main(String[] args) {

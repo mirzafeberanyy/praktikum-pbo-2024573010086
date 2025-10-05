@@ -1,4 +1,4 @@
-package modul1_1;
+package modul_1;
 
 public class Main {
     // Fungsi khusus sebagai entry point dari aplikasi yang dibuat.
