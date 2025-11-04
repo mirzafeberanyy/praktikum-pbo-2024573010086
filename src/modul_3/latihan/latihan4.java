@@ -77,7 +77,7 @@ public class latihan4 {
         return arrayBaru;
     }
 
-    // 🔹 Method baru: mencari nilai tertentu dalam array
+    // Method baru: mencari nilai tertentu dalam array
     public static boolean cariNilai(int[] array, int nilaiCari) {
         for (int nilai : array) {
             if (nilai == nilaiCari) {
@@ -87,7 +87,7 @@ public class latihan4 {
         return false; // Nilai tidak ditemukan
     }
 
-    // 🔹 Method baru: menghitung median dari array yang sudah diurutkan
+    // Method baru: menghitung median dari array yang sudah diurutkan
     public static double hitungMedian(int[] arrayUrut) {
         int panjang = arrayUrut.length;
         if (panjang % 2 == 1) {
@@ -118,7 +118,7 @@ public class latihan4 {
         System.out.print("Array setelah diurutkan: ");
         tampilkanArray(dataUrut);
 
-        // 🔹 Cari nilai tertentu
+        // Cari nilai tertentu
         System.out.print("\nMasukkan nilai yang ingin dicari: ");
         int nilaiCari = input.nextInt();
         boolean ditemukan = cariNilai(data, nilaiCari);
@@ -128,7 +128,7 @@ public class latihan4 {
             System.out.println("Nilai " + nilaiCari + " tidak ditemukan dalam array.");
         }
 
-        // 🔹 Hitung median
+        // Hitung median
         double median = hitungMedian(dataUrut);
         System.out.printf("Median dari array: %.2f\n", median);
     }
